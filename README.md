@@ -1,12 +1,10 @@
 # Omarchy Wheat Field with Cypresses Theme
 
-A light Omarchy theme built around a single painting: Vincent van Gogh's Wheat Field with Cypresses.
+My final Omarchy theme - A light theme built around a single painting: Vincent van Gogh's Wheat Field with Cypresses.
 
 ![GitHub stars](https://img.shields.io/github/stars/mattbbia/wheat-field-with-cypresses?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/wheat-field-with-cypresses?style=flat-square) ![Hits](https://hits.sh/github.com/mattbbia/wheat-field-with-cypresses.svg?style=flat-square&label=hits&color=44cc11) ![Mode](https://img.shields.io/badge/mode-light-fbbf24?style=flat-square) [![More Themes](https://img.shields.io/badge/more%20themes-%40mattbbia-blue?style=flat-square)](https://github.com/mattbbia?tab=repositories) ![Artist](https://img.shields.io/badge/artist-Vincent%20van%20Gogh-8b5e3c?style=flat-square) ![Era](https://img.shields.io/badge/era-Post--Impressionism-a67c52?style=flat-square)
 
-<img src="omarchy-icon.png" width="20" height="20" alt="Omarchy" title="Omarchy Quattro Ready"> ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square)
-
-![Omarchy Wheat Field with Cypresses Theme](preview.png)
+![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square)
 
 ## Inspiration
 
